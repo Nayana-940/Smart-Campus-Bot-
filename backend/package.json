@@ -11,11 +11,18 @@
   "type": "commonjs",
   "description": "",
   "dependencies": {
+    "@langchain/community": "^0.3.30",
+    "@langchain/mongodb": "^0.1.0",
+    "axios": "^1.7.9",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "langchain": "^0.3.15",
+    "mongodb": "^5.9.2",
     "mongoose": "^8.10.0",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "openai": "^4.84.0",
+    "xml2js": "^0.6.2"
   }
 }
